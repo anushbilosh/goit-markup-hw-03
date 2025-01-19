@@ -232,18 +232,17 @@ img {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 .team-item-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 }
 
 .team-text-container {
+    text-align: center;
     padding: 32px 0;
 }
 .portfolio {
@@ -270,6 +269,7 @@ img {
 .portfolio-item-img {
 }
 .portfolio-item-subtitle {
+    margin-bottom: 8px;
     padding-top: 32px;
     padding-bottom: 8px;
     font-weight: 500;
@@ -290,7 +290,7 @@ img {
     border: 1px solid #e7e9fc;
     border-top: none;
     padding: 32px 16px;
-    margin-bottom: 8px
+    margin-bottom: 8px;
 }
 .bottom { 
     padding-top: 100px;
