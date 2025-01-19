@@ -235,6 +235,7 @@ img {
     color: #2e2f42;
 }
 .team-item-text {
+    text-align: center;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -248,6 +249,7 @@ img {
 .portfolio {
 }
 .portfolio-title {
+    margin-bottom: 72px;
     text-transform: capitalize;
     font-size: 36px;
     line-height: 1.11;
@@ -268,6 +270,7 @@ img {
 .portfolio-item-img {
 }
 .portfolio-item-subtitle {
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
